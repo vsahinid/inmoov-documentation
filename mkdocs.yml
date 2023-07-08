@@ -1,0 +1,14 @@
+site_name: Inmoov
+repo_url: https://github.com/vsahinid/inmoov-documentation
+theme:
+  name: material
+  language: en 
+  extra:
+  alternate:
+    - name: English
+      link: /en/ 
+      lang: en
+    - name: French
+      link: /fr/
+      lang: fr
+
