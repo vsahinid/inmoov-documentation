@@ -1,6 +1,15 @@
 site_name: Inmoov
 repo_url: https://github.com/vsahinid/inmoov-documentation
+markdown_extensions:
+  - attr_list
+  - md_in_html
+extra_css:
+  - stylesheets/extra.css
 theme:
+  plugins:
+    - glightbox
+  palette:
+      primary: custom
   name: material
   language: en 
   extra:

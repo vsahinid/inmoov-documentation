@@ -12,6 +12,7 @@ Welcome to InMoov
 * `Java` - software required to develop the code.
 
 ### Hardware (to get started)
+* `3-D Printer`
 * `Philips screwdriver`
 * `Multimeter`
 
